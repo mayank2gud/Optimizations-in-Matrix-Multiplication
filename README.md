@@ -1,5 +1,5 @@
 # Optimizations-in-Matrix-Multiplication
-[embed]./Report_PartA.pdf[/embed]
+Refer to Reports for detailed explanation.
 
 
 
